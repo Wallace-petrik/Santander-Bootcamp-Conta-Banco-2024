@@ -11,5 +11,5 @@ Este é um projeto em Java que demonstra como criar uma conta em um banco. O pro
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Wallace-petrik/Santander-Bootcamp-Conta-Banco-2024.git
 
